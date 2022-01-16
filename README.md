@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/plo3j1ddvo2rocm4/branch/master?svg=true)](https://ci.appveyor.com/project/Nikitashalimov/env/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/o1g4im4ph45vy66c/branch/main?svg=true)](https://ci.appveyor.com/project/Nikitashalimov/env/branch/main)
 
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
