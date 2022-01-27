@@ -14,4 +14,3 @@ export default function demo(value) {
 export function forTest(x) {
   return x;
 }
-
