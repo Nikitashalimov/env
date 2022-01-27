@@ -9,3 +9,8 @@ export default function demo(value) {
 }
 
 // console.log('app.js included');
+
+// написал ради теста
+export function forTest(x) {
+  return x;
+}
